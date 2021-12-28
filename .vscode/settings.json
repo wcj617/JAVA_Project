@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Chapter9",
         "Chapter8",
         "Chapter7",
         "Chapter12",
         "BAEKJOON",
-        "Chapter9"
+        "Chapter1"
     ]
 }
